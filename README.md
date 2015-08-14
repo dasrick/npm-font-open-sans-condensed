@@ -1,5 +1,3 @@
-# npm-font-open-sans-condensed
-
 # npm package of Open Sans Condensed
 
 [![GitHub version](https://badge.fury.io/gh/dasrick%2Fnpm-font-open-sans-condensed.svg)](http://badge.fury.io/gh/dasrick%2Fnpm-font-open-sans-condensed)
@@ -21,7 +19,14 @@ $ npm i npm-font-open-sans-condensed --save
 
 ## Usage
 
-...
+This a sample for usage in a LESS file:
+
+```
+@import '../../../node_modules/npm-font-open-sans-condensed/open-sans-condensed';
+@FontPathOpenSansCondensed: "../fonts/open-sans-condensed";
+```
+
+First import the LESS file of the font and after this overwrite the default path. That's it ...
 
 
 ## Font Info
