@@ -1,0 +1,30 @@
+{
+  "name": "npm-font-open-sans-condensed",
+  "version": "0.0.1",
+  "description": "Open Sans Condensed font family",
+  "author": {
+    "name": "Steve Matteson"
+  },
+  "contributors": [
+    {
+      "name": "Enrico Hoffmann",
+      "email": "dasrick@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/npm-font-open-sans-condensed.git"
+  },
+  "keywords": [
+    "font",
+    "open",
+    "sans",
+    "condensed"
+  ],
+  "license": "Apache License version 2.0",
+  "bugs": {
+    "url": "https://github.com/dasrick/npm-font-open-sans-condensed/issues"
+  },
+  "homepage": "https://github.com/dasrick/npm-font-open-sans-condensed#readme",
+  "main": "./open-sans-condensed.css"
+}
