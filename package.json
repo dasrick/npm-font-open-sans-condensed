@@ -1,7 +1,7 @@
 {
   "name": "npm-font-open-sans-condensed",
   "version": "1.0.1",
-  "description": "Open Sans Condensed font family",
+  "description": "Open Sans Condensed font family - incl. usage of CSS, SCSS, LESS",
   "author": {
     "name": "Steve Matteson"
   },
@@ -17,9 +17,14 @@
   },
   "keywords": [
     "font",
+    "fontface",
     "open",
     "sans",
-    "condensed"
+    "condensed",
+    "css",
+    "sass",
+    "scss",
+    "less"
   ],
   "license": "Apache-2.0",
   "bugs": {
