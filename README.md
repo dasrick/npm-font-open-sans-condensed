@@ -30,6 +30,14 @@ This a sample for usage in a LESS file:
 
 First import the LESS file of the font and after this overwrite the default path. That's it ...
 
+You can do the same with SCSS/SASS too ...
+
+```
+# part of your SCSS file
+$FontPathOpenSansCondensed: "../fonts/open-sans-condensed";
+@import '../../../node_modules/npm-font-open-sans-condensed/open-sans-condensed';
+```
+
 
 ## Font Info
 
