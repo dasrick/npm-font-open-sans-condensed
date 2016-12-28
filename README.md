@@ -24,6 +24,7 @@ $ npm i -S npm-font-open-sans-condensed
 This a sample for usage in a LESS file:
 
 ```
+# par of your LESS file
 @import '../../../node_modules/npm-font-open-sans-condensed/open-sans-condensed';
 @FontPathOpenSansCondensed: "../fonts/open-sans-condensed";
 ```
