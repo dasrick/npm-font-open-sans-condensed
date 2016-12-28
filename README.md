@@ -1,9 +1,11 @@
+[![github tag][github-tag-image]][github-tag-url]
+[![npm version][npm-version-image]][npm-version-url]
+[![npm downloads][npm-downloads-image]][npm-downloads-url]
+[![License][license-image]][license-url]
+
+***
+
 # npm package of Open Sans Condensed
-
-[![GitHub version](https://badge.fury.io/gh/dasrick%2Fnpm-font-open-sans-condensed.svg)](http://badge.fury.io/gh/dasrick%2Fnpm-font-open-sans-condensed)
-[![npm version](https://img.shields.io/npm/v/npm-font-open-sans-condensed.svg)](https://www.npmjs.com/package/npm-font-open-sans-condensed)
-[![npm downloads](https://img.shields.io/npm/dm/npm-font-open-sans-condensed.svg)](https://www.npmjs.com/package/npm-font-open-sans-condensed)
-
 
 Open Sans Condensed is a humanist sans serif typeface designed by Steve Matteson.
 
@@ -13,7 +15,7 @@ Open Sans Condensed is a humanist sans serif typeface designed by Steve Matteson
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i npm-font-open-sans-condensed --save
+$ npm i -S npm-font-open-sans-condensed
 ```
 
 
@@ -48,3 +50,16 @@ Open Sans Condensed
 ## License
 
 Fonts: Licensed under [Apache 2.0](https://github.com/dasrick/npm-font-open-sans-condensed/blob/master/LICENSE)
+
+***
+
+[github-tag-image]: https://img.shields.io/github/tag/dasrick/npm-font-open-sans-condensed.svg?style=flat-square
+[github-tag-url]: https://github.com/dasrick/npm-font-open-sans-condensed
+
+[npm-version-image]: https://img.shields.io/npm/v/npm-font-open-sans-condensed.svg?style=flat-square
+[npm-version-url]: https://www.npmjs.com/package/npm-font-open-sans-condensed
+[npm-downloads-image]: https://img.shields.io/npm/dm/npm-font-open-sans-condensed.svg?style=flat-square
+[npm-downloads-url]: https://www.npmjs.com/package/npm-font-open-sans-condensed
+
+[license-image]: https://img.shields.io/github/license/dasrick/npm-font-open-sans-condensed.svg?style=flat-square
+[license-url]: https://github.com/dasrick/npm-font-open-sans-condensed/blob/master/LICENSE
